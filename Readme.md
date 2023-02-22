@@ -53,7 +53,7 @@ http://zhandian.com/zd/druid/spring.html
 
 此字典为请求头字典,一眼能看懂
 
-## FUZZ心得❤️
+## FUZZ心得&备忘❤️
 
 推荐工具[ffuf](https://github.com/ffuf/ffuf)  线程(协程)默认为40一般足够  嫌慢可以指定参数-t 200 但一定小心 大概率目标扛不住
 
@@ -76,4 +76,22 @@ ffuf提供了仅获取具有特定特征的状态码、行数、响应大小、�
 
 这里 -fs -fc -ms -fc -fl -ml -fw -mw 都是控制匹配的参数, FFUF工具很好用但是在header上也存在无法批量的弊端 建议学习一下
 
+递归扫描
 
+```
+.\ffuf.exe -w D:\字典\fileleak\H-fileleak-top7000.txt:HTTP -u http://zhandian.com/HTTP -recursion-depth 3
+```
+
+双字典匹配
+
+```
+.\ffuf.exe -t 200 -w D:\字典\fileleak\H-fileleak-top7000.txt:HTTP2,D:\字典\fileleak\H-fileleak-top7000.txt:HTTP1 -u http://HTTP1/HTTP2
+```
+
+POST请求
+
+通过模糊测试POST请求，实际上可以实现暴力破解。这里需要在password.txt里导入常见的密码字典库，并过滤掉401返回值
+
+```
+.\ffuf.exe -w password.txt -X POST -d "username=admin\&password=FUZZ" -u https://zhandian.com/login.php -fc 401
+```
