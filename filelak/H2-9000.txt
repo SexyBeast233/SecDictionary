@@ -1722,6 +1722,7 @@ FCKeditor24/
 FakesAssemblies/
 FaultOrderEnum
 Fckeditor
+FileStorage/
 FileHandler/
 FileTransfer
 FileZilla.xml
