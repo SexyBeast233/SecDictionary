@@ -1659,6 +1659,7 @@ DocProject/Help/html
 DocProject/buildhelp/
 Dockerfile
 Download
+DownloadProxy.aspx
 Downloads
 Drupal
 DynaCacheESI
@@ -2078,6 +2079,7 @@ Runtime/Logs/User/20_03_06.log
 Runtime/Logs/User/20_09_06.log
 RushSite.xml
 SIMPLEDAD
+SM/DTS/DownloadProxy.aspx
 SQL
 SQLyogTunnel.php
 SSODAD
@@ -3758,8 +3760,6 @@ api_log.txt
 apibuild.pyc
 apidoc
 apidocs
-api/index.php/v1/config/application?public=true
-index.php/v1/config/application?public=true
 apis
 apis/
 apis/apps
@@ -7127,6 +7127,7 @@ index.php.zip
 index.php.~
 index.php.~1~
 index.php/login/
+index.php/v1/config/application?public=true
 index.php3
 index.php4
 index.php5
@@ -10687,6 +10688,7 @@ topic
 topicadmin
 topics
 touradmin
+tplus/SM/DTS/DownloadProxy.aspx?preload=1&Path=../../Web.Config
 trace
 trace.axd
 trace.json
@@ -11089,7 +11091,6 @@ v1/swagger.json
 v1/test/js/console.html
 v1/test/js/console_ajax.js
 v2
-v2.0
 v2.0
 v2/
 v2/_catalog
