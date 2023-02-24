@@ -243,7 +243,7 @@ Password1
 Password123
 Password1234
 Password@123
-PublishThisListPlease
+Publish
 Q1W2E3b3
 Qaz123456!
 Qq123456
