@@ -1495,6 +1495,7 @@ Administrator.jsp
 Administrator.shtml
 Administrator/
 Administrator/login
+Ajax.js
 AlbumCatalogWeb
 AlbumCatalogWeb/
 AlbumCatalogWeb/docs/
@@ -1634,6 +1635,7 @@ DAD
 DB
 DEADJOE
 DEMO
+DEVELOPMENT_README.md
 DP
 DataBackup
 Database.yml
@@ -1658,6 +1660,7 @@ DocProject/Help/Html2
 DocProject/Help/html
 DocProject/buildhelp/
 Dockerfile
+Dom.js
 Download
 DownloadProxy.aspx
 Downloads
@@ -1669,6 +1672,7 @@ ENV/
 EWbutton_Community
 EWbutton_GuestBook
 Editor
+Editor.js
 EemAdminService/EemAdmin?wsdl
 EquipmentEnum
 ErroLog
@@ -1734,6 +1738,7 @@ Files/search.indexes
 Files/user.lock
 Finance
 FireFox_Reco
+FormValidator.js
 GEMINI/
 GNRemote.dll
 GNRemote.dll?GNFunction=GetUsers
@@ -1837,6 +1842,7 @@ Install.txt
 Install_dotCMS_Release.txt
 InstalledFiles
 Intermediate/
+Item.js
 JNLP-INF/APPLICATION.JNLP
 JTAExtensionsSamples/TransactionTracker
 JTAExtensionsSamples/TransactionTracker/
@@ -1913,6 +1919,7 @@ Mail/smtp/Admin/smadv.asp
 Makefile
 Makefile.in
 Makefile.old
+Manager.js
 MasterPage
 Members
 Members.cgi
@@ -1957,6 +1964,7 @@ OrderEnum
 OrderProcessorEJB/
 OrderProcessorEJB/services/FrontGate
 OrderProcessorEJB/services/FrontGate/wsdl/
+Overview.js
 PHP
 PKG-INFO
 PMA/
@@ -2023,6 +2031,7 @@ RELEASE_NOTES.txt
 RLcQq
 ROOT.war
 Rakefile
+Range.js
 Read
 Read%20Me.txt
 ReadMe
@@ -2135,6 +2144,7 @@ SourceCodeViewer
 Sourceservlet-classViewer
 SqueakDebug.log
 Statistik/
+Stats.js
 StockQuote/
 StockQuote/services/xmltoday-delayed-quotes
 StockQuote/services/xmltoday-delayed-quotes/wsdl/
@@ -2211,6 +2221,7 @@ Testing
 Tests
 Thorfile
 Thumbs.db
+Tooltip.js
 Trace.axd
 Trace.axd::$DATA
 UPDATE.txt
@@ -2229,7 +2240,9 @@ Uploadify/uploadify.swf
 UserEnum
 UserFile
 UserFiles
+UserInformation.js
 UserLogin/
+Util.js
 VERSION.md
 VERSION.txt
 VERSIONS.html
@@ -2762,9 +2775,11 @@ adadmin
 adcadmin
 adclick
 add
+add.js
 add.php
 addNodeListener
 add_admin
+addinfo.js
 addons
 adfs/services/trust/2005/windowstransport
 adm
@@ -3480,6 +3495,8 @@ aiadmin
 ainstall
 airflow
 ajax
+ajaxfileupload.js
+ajaxfileupload/ajaxfileupload.js
 ajfhasdfgsagfakjhgd
 ak47.php
 akeeba.backend.log
@@ -3798,6 +3815,7 @@ app-config.xml
 app-service.yaml
 app.cfg
 app.config
+app.config.js
 app.ini
 app.js
 app.log
@@ -4108,7 +4126,9 @@ autologin
 autologin.php
 autologin/
 autom4te.cache
+autosave.js
 autoscan.log
+autosubmit.js
 autoupdate/
 av/
 awards
@@ -4328,6 +4348,7 @@ bandwidth
 bandwidth/
 bankNames
 banner
+banner.js
 banner.swf
 banner.txt
 banner/
@@ -4337,6 +4358,7 @@ banneradmin/
 banners
 banners/
 base
+base.js
 base/
 basefile
 basic
@@ -4491,6 +4513,7 @@ bins/
 bit
 bitbucket-pipelines.yml
 bitmap
+bitnami_wordpress.sql
 bitrix
 bitrix/
 bitrix/.settings
@@ -4582,13 +4605,16 @@ bot.txt
 bower.json
 bower_components
 bower_components/
+bower_components/director/bin/
 bower_components/underscore/README.md
+box.js
 box.json
 bpadmin
 brace
 bracket
 breakpoint
 brokeradmin
+brower.js
 browse
 browser/
 browser/default/connectors/asp/connector.asp
@@ -4633,6 +4659,7 @@ business/cameraManage
 business/setting
 businessadmin
 button
+button.js
 buttons
 buy
 bvadmin
@@ -4653,6 +4680,7 @@ cabal.project.local~
 cabal.sandbox.config
 cache
 cache-downloads
+cache.js
 cache/
 cache/sql_error_latest.cgi
 cache_html
@@ -4708,6 +4736,7 @@ ccbill.log
 ccct-admin
 ccp14admin/
 cdadmin
+cdn.js
 celerybeat-schedule
 cell.xml
 cells
@@ -4766,6 +4795,7 @@ cgi/common.cgi
 cgibin/
 cgis/
 chain
+change.js
 change.log
 changeall.php
 changelog
@@ -4843,6 +4873,7 @@ class-wp-theme-install-list-table.php
 class-wp-themes-list-table.php
 class-wp-users-list-table.php
 class-wp-xmlrpc-server.php
+class.js
 class.wp-scripts.php
 class.wp-styles.php
 classes
@@ -4897,6 +4928,7 @@ cleanup.log
 clear
 cli/
 click
+click.js
 client
 client.conf
 client.ovpn
@@ -5012,6 +5044,7 @@ com.war
 com.zip
 comadmin
 combo
+combox.js
 command
 command.php
 comment
@@ -5022,6 +5055,7 @@ comments.php
 common
 common.func.php
 common.inc
+common.js
 common.xml
 common.yml
 common/
@@ -5310,6 +5344,7 @@ contributing.md
 contributor
 contributors.txt
 control
+control.js
 control.php
 control/
 controller
@@ -5321,6 +5356,7 @@ controlpanel.html
 controlpanel.php
 controlpanel.shtml
 controlpanel/
+convention.php
 cookbooks
 cookie
 cookie.php
@@ -5328,8 +5364,10 @@ cookies
 cool_knorr
 coppermine
 copy
+copy.js
 copyright
 core
+core.js
 core.xml
 core/fragments/moduleInfo.phtml
 core/latest/swagger-ui/index.html
@@ -5407,6 +5445,7 @@ current
 cursor
 cust_al
 custom
+custom.js
 custom/
 custom/db.ini
 customer
@@ -5458,6 +5497,7 @@ data.db
 data.gz
 data.html
 data.jar
+data.js
 data.log
 data.mdb
 data.rar
@@ -5570,6 +5610,8 @@ dataobject.ini
 datasource.html
 datasource.properties
 datasource.yml
+datatables.js
+date.jsexample.js
 davmail.log
 db
 db-admin
@@ -5710,6 +5752,7 @@ default.config
 default/
 default1.aspx
 default_views.properties
+defaultfilter.js
 defaultroot/officeserverservlet
 defaultroot/upload/fileUpload.controller
 defer
@@ -5720,6 +5763,7 @@ delegation
 delete.php
 demarshal
 demo
+demo.js
 demo.php
 demo.xml
 demo/
@@ -5752,6 +5796,7 @@ desktop/index_framed.htm
 destroy
 destructor
 detail
+detail.js
 details
 dev
 dev.7z
@@ -5809,6 +5854,7 @@ diradmin
 directadmin
 directadmin/
 directive
+director/bin/
 directory
 disclaimer
 discus_admin
@@ -5909,6 +5955,7 @@ drupal
 dsadmin
 dswsbobje/
 dswsbobje/happyaxis.jsp
+dtd.js
 dubbo
 duckrails/mocks/
 dummy
@@ -5971,9 +6018,11 @@ echo
 ecosystem.json
 ecp/
 edit
+edit.js
 edit.php
 edit/
 editor
+editor.js
 editor.php
 editor/
 editor/FCKeditor
@@ -5998,6 +6047,7 @@ editor/tinymce/
 editors.properties
 editors/
 editors/FCKeditor
+editorui.js
 education
 efficiency
 efficient
@@ -6386,6 +6436,7 @@ feixiang.php
 fetch
 field
 file
+file.js
 file.php
 file/
 fileRealm
@@ -6459,7 +6510,9 @@ fileupload/
 filezilla.xml
 filezilla/filezilla.xml
 filezilla/recentservers.xml
+filternode.js
 filters.xml
+filterword.js
 finances/
 findbugs/
 firebase-debug.log
@@ -6475,6 +6528,7 @@ flag.txt
 flag/
 flags
 flash
+flash.js
 flash/
 flash/ZeroClipboard.swf
 flashFXP.ini
@@ -6497,6 +6551,7 @@ flashfxp.txt
 flashfxp.war
 flashfxp.zip
 flexibility
+flot.js
 flowable-idm
 fluent.conf
 fluent_aggregator.conf
@@ -6513,10 +6568,13 @@ footer.php
 for
 forgot
 form
+form.js
 formadmin
 formal
+formeditor.js
 formmail
 forms
+forms.js
 formsadmin
 formslogin/
 forum
@@ -6609,6 +6667,7 @@ full
 fun.php
 funcion/
 function
+function.js
 function.require
 functionality
 functions
@@ -6625,6 +6684,7 @@ galerias
 gallery
 gallery_admin
 game
+game.js
 games
 ganglia/
 gateway
@@ -6729,6 +6789,7 @@ graphql/console
 graphql/console/
 grappelli/
 graylog/
+green.js
 groovy/
 group
 groupadmin
@@ -6743,6 +6804,7 @@ guanli
 guanli/
 guanli/admin.asp
 guard
+gui.js
 guide
 guides
 gulp-azure-sync-assets.js
@@ -6918,6 +6980,7 @@ html.bak
 html.db
 html.gz
 html.jar
+html.js
 html.log
 html.mdb
 html.rar
@@ -6939,6 +7002,7 @@ html/js/misc/swfupload/swfupload.swf
 html/js/misc/swfupload/swfupload_f9.swf
 htmlcov/
 htmldb
+htmlparser.js
 htpasswd
 htpasswd.bak
 htpasswd/
@@ -6996,6 +7060,7 @@ id_rsa.pub
 id_rsa_rfc.pub
 identifier
 if
+iframe.js
 iiasdmpwd/
 iiop/ClientClose
 iiop/ClientLogin
@@ -7016,6 +7081,7 @@ iishelp
 iishelp/
 iissamples/
 image
+image.js
 images
 images/
 images/README
@@ -7026,6 +7092,7 @@ images_admin
 images_upload/
 imail
 img
+img.html
 img_admin
 immediate
 immutability
@@ -7088,6 +7155,7 @@ includes/tinymce
 includes/tinymce/
 incomming
 increment
+indent.js
 index
 index-bak
 index-test.php
@@ -7109,6 +7177,7 @@ index.html
 index.inc
 index.jar
 index.java
+index.js
 index.jsp
 index.log
 index.mdb
@@ -7163,6 +7232,7 @@ index~1
 infinite
 influxdb/
 info
+info.js
 info.json
 info.php
 info.txt
@@ -7180,6 +7250,8 @@ initialization
 initialize
 inline
 inner
+input.js
+insertcode.js
 inspector
 instadmin/
 install
@@ -7333,6 +7405,7 @@ jboss/server/minimal/deploy/project.ext
 jbossws/services
 jbpm-console/app/tasks.jsf
 jcadmin
+jcode.js
 jdbc
 jdbc.properties
 jdbc.yml
@@ -7439,9 +7512,12 @@ jscripts/tiny_mce/plugins/ajaxfilemanager/ajaxfilemanager.php
 jscripts/tinymce
 jscripts/tinymce/
 json
+json.js
 json.txt
 json/config.txt
 json/list
+json1.js
+json2.js
 jsp
 jsp-examples/
 jsp-reverse.jsp
@@ -7471,6 +7547,7 @@ jspspy.jsp
 jspspy.jspx
 jsrpc.php
 jssresource/
+jszip.js
 jtidy.properties
 juju/
 junit/
@@ -7528,14 +7605,17 @@ laravel5.sql
 laser
 lastUpdate.txt
 latest
+latest/bower_components/director/bin/
 latest/meta-data/hostname
 latest/user-data
+layoutjs.js
 layouts/
 lbadmin
 ldap.prop
 ldap.prop.sample
 ldap/
 ldapconfig.properties
+left.js
 legal
 lemardel_admin
 lesson_admin
@@ -7598,7 +7678,9 @@ lighttpd.error.log
 lilo.conf
 lindex.php
 link
+link.js
 linkadmin
+linkage.js
 linker
 linkhub/
 linkhub/linkhub.log
@@ -7613,6 +7695,7 @@ lisaiYun.pvk
 lisaioo1.pvk
 lisaiool.puk
 list
+list.js
 listByOrganization
 list_emails
 listadmin
@@ -7628,8 +7711,10 @@ ll-job-admin/api
 ll-job-admin/api.log
 loacale
 load
+load.js
 load.php
 loadUserInfo
+loadconfig.js
 loader
 local
 local-cgi/
@@ -7690,6 +7775,7 @@ localsettings.php.save
 localsettings.php.swp
 localsettings.php.txt
 localsettings.php~
+localstorage.js
 lock
 log
 log-in
@@ -7764,6 +7850,7 @@ login.asp
 login.cgi
 login.htm
 login.html
+login.js
 login.json
 login.jsp
 login.php
@@ -7898,9 +7985,12 @@ mailman/
 mailman/listinfo
 main
 main.dart.js
+main.js
 main.mdb
 main/
 main/login
+main1.js
+main2.js
 main_Left_JM.html
 mainadmin
 maint/
@@ -7992,8 +8082,10 @@ mappings
 mappings.json
 maps
 mariadb.js
+mark.js
 market
 marshal
+mask.js
 master-admin
 master.7z
 master.bak
@@ -8031,6 +8123,7 @@ mcadmin
 mcollective/
 mcx/
 mcx/mcxservice.svc
+md5.js
 mdate-sh
 mechanism
 media
@@ -8110,15 +8203,18 @@ memlogin/
 memory
 menu
 menu-header.php
+menu.js
 menu.php
 menuWrapper
 menuWrapper/roleMenuTree
 menuWrapper/roleTreeKeys
+menubutton.js
 merchantadmin
 mercurial.ini
 mercurial/
 mesos/
 message
+message.js
 messages
 messages.properties
 messaging-config.xml
@@ -8199,6 +8295,7 @@ modules/admin/
 modules/web.config
 modules_admin
 moinmail
+moment.js
 mongo/
 mongodb.properties
 mongodb/
@@ -8236,11 +8333,17 @@ mt
 mt-check.cgi
 mua-endpoints.xml
 multi
+multiMenu.js
 multimedia
+multiple_productupload_edit.js
+multipleupload.js
+multipleupload_add.js
+multipleupload_edit.js
 munin
 munin/
 muracms.esproj
 music
+music.js
 mutable
 mutillidae/
 mve
@@ -8427,6 +8530,7 @@ nl
 nlia.cache
 node
 node-role.kubernetes.io
+node.js
 node.xml
 node_modules
 node_modules/
@@ -8554,9 +8658,12 @@ opc/services/PurchaseOrderIntfPort
 opc/services/PurchaseOrderIntfPort/wsdl/
 open-flash-chart.swf?get-data=xss
 open.html
+open.js
 openadmin
 openapi.json
 openapi/v2
+openapp.js
+openemr/
 openshift/
 openstack/
 opentsdb/
@@ -8740,6 +8847,7 @@ passwords.mdb
 passwords.sqlite
 passwords.txt
 passwords/
+paste.js
 path/
 path/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 patient/login.do
@@ -8762,6 +8870,8 @@ pbserver/pbserver.dll
 pbx/
 pcadmin
 pdf
+pdf.js
+pdf.js/web/viewer.html
 pdf_admin
 peienadmin
 pentaho/
@@ -9115,6 +9225,7 @@ pls
 pls/dad/null
 plugin-install.php
 plugin.html
+plugin.js
 plugin.php
 plugin.xml
 plugin/tools/tools.php
@@ -9188,6 +9299,7 @@ pom.xml.versionsBackup
 pop
 popup.htm
 popup.html
+popup.js
 popupChecks
 port
 portal
@@ -9223,9 +9335,11 @@ presentation-config.xml
 preset
 preset/config.ini
 press
+preview.js
 prime
 primitive
 print
+print.js
 printenv
 printenv.tmp
 printer
@@ -9452,7 +9566,9 @@ remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
 remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 remote_adm/
 remoting-servlet.xml
+remove.js
 removeNodeListener
+removeformat.js
 rentalsadmin
 reply
 repo/
@@ -9469,8 +9585,10 @@ represent
 request.log
 requesthandler/
 requesthandlerext/
+require.js
 requirements.txt
 rerun.txt
+res.access.log
 research
 reseller
 reset
@@ -9495,6 +9613,7 @@ resources/fckeditor
 resources/js/ueditor/
 resources/sass/.sass-cache/
 resources/tmp/
+respond.js
 rest-api/
 rest-auth/
 rest/
@@ -9513,6 +9632,7 @@ resume
 resume.json
 return
 review
+review.js
 reviews
 revision.inc
 revision.txt
@@ -9551,9 +9671,12 @@ root.war
 root.zip
 root/
 rootadmin
+rotaion.js
 roundcube/index.php
 routes
 routine
+row.js
+rows.js
 rpc/
 rpc_admin
 rpcwithcert/
@@ -9620,6 +9743,7 @@ samples/activitysessions/
 sap-config.properties
 sat_admin
 save
+save.js
 sbadmin
 sbt/
 scalyr/
@@ -9640,9 +9764,11 @@ screen
 screenshots
 script
 script-loader.php
+script.js
 script/
 script/jqueryplugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 scripts
+scripts.js
 scripts/
 scripts/cgimail.exe
 scripts/ckeditor/ckfinder/core/connector/asp/connector.asp
@@ -9684,6 +9810,7 @@ secring.bak
 secring.pgp
 secring.skr
 section
+section.js
 secure
 secure/
 secure/ConfigurePortalPages!default.jspa?view=popular
@@ -9707,6 +9834,9 @@ seeyon/
 seeyon/logs/login.log
 seeyon/services
 seeyonreport/ReportServer
+select.js
+selectall.js
+selection.js
 selenium/
 semantics
 sendgrid.env
@@ -9939,7 +10069,10 @@ skin_admin
 skins
 slanadmin
 slapd.conf
+slide.js
 slider
+slider.js
+slider1.js
 slides/
 slot
 smart
@@ -9968,6 +10101,7 @@ soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 soapserver/
 socker.io
 socket
+socket.js
 sofa-config.properties
 sofaboot/
 sofaboot/versions
@@ -9987,6 +10121,7 @@ sonar/
 sonarcube/
 sonarqube/
 source
+source.js
 source.php
 source.php.bak
 source.php.swp
@@ -10339,6 +10474,7 @@ swf
 swfobject.js
 swfupload
 swfupload.swf
+swipe.js
 sxd/
 sxd/backup/
 sxdpro/
@@ -10477,6 +10613,7 @@ template.bak
 template.db
 template.gz
 template.jar
+template.js
 template.log
 template.mdb
 template.rar
@@ -10584,6 +10721,7 @@ testweb
 texinfo.tex
 text
 text-base/etc/passwd
+textarea.js
 textpattern/
 theme
 theme-install.php
@@ -10607,6 +10745,7 @@ tiki-admin
 tiki/doc/stable.version
 tikiwiki
 tiles-defs.xml
+time.js
 timeline.xctimeline
 tiny_mce
 tiny_mce/
@@ -10676,6 +10815,7 @@ tn
 token.json
 tomcat-docs/appdev/sample/web/hello.jsp
 tomcat/axis/
+toolbar.js
 tools
 tools.php
 tools.tar.gz
@@ -10684,6 +10824,7 @@ tools/_backups/
 tools/phpMyAdmin/index.php
 tools/tools.php
 top
+top.js
 topic
 topicadmin
 topics
@@ -10721,6 +10862,7 @@ tv
 tvadmin
 twitter/.env
 txt/
+type.js
 types
 typings/
 typo3
@@ -10755,12 +10897,16 @@ uddiexplorer/SearchPublicRegistries.jsp
 uddigui/
 uddilistener
 uddisoap/
+ueditor.config.js
+ueditor.parse.js
 ueditor/
 ueditor/jsp/config.json
 ueditor/net/config.json
 ueditor/php/config.json
 ueditor/ueditor.config.js
+ueditor_qdli/
 ui
+ui.js
 ui/
 ujadmin
 uk
@@ -10889,6 +11035,7 @@ upload.gz
 upload.htm
 upload.html
 upload.jar
+upload.js
 upload.jsp
 upload.log
 upload.mdb
@@ -10980,6 +11127,7 @@ user.db
 user.gz
 user.html
 user.jar
+user.js
 user.log
 user.mdb
 user.php
@@ -11012,6 +11160,7 @@ user_uploads
 useradmin
 useradmin/
 userapp.php
+userbrower.js
 usercp
 userdb
 userfiles
@@ -11114,6 +11263,7 @@ vagrant/
 validation.properties
 validation.xml
 validator-rules.xml
+validator.js
 validator.php
 var
 var/
@@ -11173,6 +11323,7 @@ version/
 vhost-limits/
 vhosts/
 video-js.swf
+video.js
 view-source
 view.php
 views
@@ -11354,6 +11505,7 @@ webadmin/index.php
 webadmin/login.html
 webadmin/login.php
 webalizer
+webapp.js
 webapp/wm/runtime.jsp
 webapps.war
 webdav.password
@@ -11466,6 +11618,7 @@ wls-wsat
 wls-wsat/CoordinatorPortType11
 wlserver
 wml.properties
+word.js
 wordpress.tar
 wordpress.tar.bz2
 wordpress.tar.gz
@@ -11752,11 +11905,13 @@ xampp/
 xampp/phpmyadmin/
 xampp/phpmyadmin/index.php
 xampp/phpmyadmin/scripts/setup.php
+xcarousel.js
 xcuserdata/
 xd.php
 xferlog
 xiaoma.php
 xlogin/
+xls.js
 xls/
 xml/
 xml/DatabaseConfig.xml
