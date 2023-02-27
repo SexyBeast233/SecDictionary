@@ -43,10 +43,10 @@
 ?file3=1
 ?file4=1
 ?file=1
-?file=index.asp
-?file=index.html
-?file=index.jsp
-?file=index.php
+?file=1
+?file=1
+?file=1
+?file=1
 ?fileBlank=1
 ?fileFixture=1
 ?fileUploader=1
