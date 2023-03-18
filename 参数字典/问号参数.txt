@@ -10,6 +10,7 @@
 ?board=1
 ?callback=1
 ?cat=1
+?USERID=1
 ?category=1
 ?categoryid=1
 ?checkout_url=1
