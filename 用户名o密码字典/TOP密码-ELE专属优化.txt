@@ -9,6 +9,7 @@
 !qaz@wsx
 !user!
 *admin123
+Admin@huawei
 +-ccccc
 0
 00
@@ -330,12 +331,8 @@ babygirl
 bailey
 banana
 bandit
-baseball
-basketball
-biteme
 blahblah
 buster
-butterfly
 caonima
 centos
 changeme

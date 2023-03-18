@@ -18,3 +18,4 @@
 .txt
 .war
 .pem
+.iml
