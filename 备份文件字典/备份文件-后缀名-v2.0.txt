@@ -7,6 +7,12 @@
 .log
 .mdb
 .rar
+.java
+.gradle
+.groovy
+.kt
+.kts
+.pom
 .root 
 .sql
 .sql.gz

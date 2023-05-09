@@ -5,7 +5,10 @@
 ?WeiXin=1
 ?action=1
 ?action=upload_file
+?redirect=1
+?next=1
 ?arg=1
+?studentld=1
 ?begindate=1
 ?board=1
 ?callback=1
