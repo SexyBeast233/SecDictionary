@@ -9,6 +9,12 @@
 %2e%2e//google.com
 %2e%2e;test/
 apple-app-site-association
+edge/v1/homepage/subDevicesByModel
+v1/homepage/subDevicesByModel
+homepage/subDevicesByModel
+subDevicesByModel 
+edge/v1/appManager/all
+edge/
 %3f
 %3f.back
 %3f.bak
