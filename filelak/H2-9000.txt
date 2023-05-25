@@ -4,17 +4,8 @@
 !.htaccess
 !.htpasswd
 %20../
-.mvn/wrapper/
-.mvn/
 %2e%2e//google.com
 %2e%2e;test/
-apple-app-site-association
-edge/v1/homepage/subDevicesByModel
-v1/homepage/subDevicesByModel
-homepage/subDevicesByModel
-subDevicesByModel 
-edge/v1/appManager/all
-edge/
 %3f
 %3f.back
 %3f.bak
@@ -129,7 +120,6 @@ edge/
 .aspnet/
 .aspnet/DataProtection-Keys/
 .atfp_history
-apidruid
 .atom/config.cson
 .atoum.php
 .autotest
@@ -932,7 +922,9 @@ apidruid
 .msync.yml
 .mtj.tmp/
 .muttrc
+.mvn/
 .mvn/timing.properties
+.mvn/wrapper/
 .mvn/wrapper/maven-wrapper.jar
 .mweval_history
 .mwsql_history
@@ -2480,6 +2472,7 @@ CookieExample
 Core/
 Counter
 Cpanel.php
+CreateUserId
 DAD
 DAMENG01.log
 DAMENG02.log
@@ -2518,6 +2511,7 @@ DocProject/Help/html
 DocProject/buildhelp/
 Dockerfile
 Dockerrun.aws.json
+DocumentFile
 DocumentLib
 Dom.js
 Download
@@ -2599,6 +2593,9 @@ Finance
 FireFox_Reco
 FormValidator.js
 GEMINI/
+GET_NET_DHCP_INFO.json
+GET_USER_WAN_PPP_INFO.json
+GET_WLAN_LINK_INFO.json
 GNRemote.dll
 GNRemote.dll?GNFunction=GetUsers
 GUI
@@ -2955,6 +2952,7 @@ ReportServer/
 ReportServer/Pages/ReportViewer.aspx
 Reports/Pages/Folder.aspx
 RequestParamExample
+Resource
 Root
 RootCA.crt
 Runtime
@@ -3121,6 +3119,8 @@ Thumbs.db
 Tooltip.js
 Trace.axd
 Trace.axd::$DATA
+U8SMSProxy
+U8SMSProxy?class=XXNote&id=qryyfs
 UPDATE.txt
 UPGRADE
 UPGRADE.txt
@@ -4928,6 +4928,7 @@ api_smartapp/storage/
 apibuild.pyc
 apidoc
 apidocs
+apidruid
 apis
 apis/
 apis/apps
@@ -5048,6 +5049,7 @@ appadmin
 appcache.manifest
 appengine-generated/
 apple
+apple-app-site-association
 applet
 application
 application-client.xml
@@ -5339,6 +5341,7 @@ axis2/axis2-admin/
 axis2/axis2-admin/login
 axis2/axis2-web/HappyAxis.jsp
 axis2/services
+axisservices
 azure-pipelines.yml
 azureadmin/
 b
@@ -6374,6 +6377,10 @@ conf/webmaster.properties
 conf/wml.properties
 conf/zoo.cfg
 conferences
+confg1.asp
+confg1.aspx
+confg1.jsp
+confg1.php
 config
 config.7z
 config.bak
@@ -6746,6 +6753,7 @@ customers.sql.gz
 customers.sqlite
 customers.txt
 customers.xls
+customreport
 cvs
 cvs/
 cvsadmin
@@ -7381,6 +7389,9 @@ ecf/
 echo
 ecosystem.json
 ecp/
+edge/
+edge/v1/appManager/all
+edge/v1/homepage/subDevicesByModel
 edit
 edit.js
 edit.php
@@ -7427,6 +7438,7 @@ ekw_admin
 elastic/
 elasticsearch
 elasticsearch/
+elent.do
 elfinder.html
 elfinder/
 elfinder/elfinder.php
@@ -7456,6 +7468,8 @@ encode-explorer_6.2/
 encode-explorer_6.3/
 encode-explorer_6.4.1/
 encode-explorer_6.4/
+encode1
+encode2
 encode_explorer-3.2/
 encode_explorer-3.3/
 encode_explorer-3.4/
@@ -7719,6 +7733,7 @@ ext/mkinstalldirs
 ext/modules/
 ext/run-tests.php
 extdirect
+external
 extjs/
 extjs/resources//charts.swf
 extra_admin
@@ -7825,6 +7840,7 @@ feed-rss.php
 feed-rss2-comments.php
 feed-rss2.php
 feedback
+feedback_js.php
 feeds
 feixiang.php
 fetch
@@ -8326,6 +8342,10 @@ graffiti-admin
 graph
 graph_cms
 graphics
+eps/api/resourceOperations/upload
+acs/api/serviceApi/blackDownload/downloadBlackCallBack?token=xxx
+eps
+resourceOperations
 graphiql
 graphiql.css
 graphiql.js
@@ -8504,6 +8524,7 @@ home/RealTimeLibrary
 home/SplicingSameCoin
 homepage
 homepage.nsf
+homepage/subDevicesByModel
 hook
 hopfully404
 host
@@ -9825,6 +9846,7 @@ member.php
 member/
 member/admin.asp
 member/ajax_membergroup.php?action=post&membergroup=1
+member/album_add.php
 member/login
 member/login.asp
 member/login.html
@@ -9832,6 +9854,7 @@ member/login.jsp
 member/login.py
 member/login.rb
 member/logon
+member/resetpassword.php
 member/signin
 member/upload.jspx
 memberadmin
@@ -9894,6 +9917,7 @@ mercurial.ini
 mercurial/
 mesos/
 message
+message.do
 message.js
 messages
 messages.properties
@@ -10299,6 +10323,7 @@ oauth/login/
 oauth/signin/
 oauth/token
 oauth2
+oauthservlet
 obj/
 object
 objects
@@ -11012,8 +11037,11 @@ plugins/web.config
 plupload
 plus
 plus/90sec.php
+plus/feedback_js.php
 plus/flink.php?dopost=save&c=whoami
 plus/recommend.php
+plus/rss.php
+plus/search.php
 pm2.json
 pm_to_blib
 pma
@@ -11121,6 +11149,7 @@ private.key
 private.mdb
 private.pem
 private.sqlite
+privatefiles
 privatekey.key
 probando
 probes
@@ -11769,6 +11798,7 @@ services-config.xml
 services-remote-config.xml
 services.properties
 services/
+services/HrmService
 services/Version
 services/config/databases.yml
 servlet
@@ -12341,6 +12371,7 @@ styles
 styles/prosilver/style.cfg
 stylesheets/bundles
 sub-login/
+subDevicesByModel 
 subadmin
 submit
 subroutine
@@ -12465,6 +12496,7 @@ sys/
 sys/common/upload
 sys/pprof
 sysFile
+sysRole
 sys_admin
 sys_log/
 sysadm
@@ -12554,6 +12586,7 @@ teknoportal/readme.txt
 teleadmin
 telephone
 telescope/requests
+telnet
 telphin.log
 teluguadmin
 temp
@@ -12722,6 +12755,7 @@ tiki-admin
 tiki/doc/stable.version
 tikiwiki
 tiles-defs.xml
+time
 time.js
 time.php
 timeline.xctimeline
@@ -13269,6 +13303,7 @@ v1/graphql/schema.json
 v1/graphql/schema.xml
 v1/graphql/schema.yaml
 v1/health/service/consul
+v1/homepage/subDevicesByModel
 v1/playground
 v1/policies
 v1/public/yql
@@ -13521,6 +13556,7 @@ w.tgz
 w.txt
 w.war
 w.zip
+w_selfservice/
 wallet.dat
 wallet.json
 wangzhan.7z
@@ -13919,6 +13955,7 @@ wp-register
 wp-register.php
 wp-rss2
 wp-settings.php
+wp-sold-need-ivm.php
 wp.7z
 wp.bak
 wp.db
