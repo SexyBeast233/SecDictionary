@@ -3678,6 +3678,7 @@ accounts/logon
 accounts/signin
 acct_login/
 acs-admin
+acs/api/serviceApi/blackDownload/downloadBlackCallBack?token=xxx
 actions
 actions/seomatic/meta
 actions_admin
@@ -7526,6 +7527,8 @@ env.test.js
 env/
 environment.rb
 envs
+eps
+eps/api/resourceOperations/upload
 epsadmin
 equal
 equality
@@ -8342,10 +8345,6 @@ graffiti-admin
 graph
 graph_cms
 graphics
-eps/api/resourceOperations/upload
-acs/api/serviceApi/blackDownload/downloadBlackCallBack?token=xxx
-eps
-resourceOperations
 graphiql
 graphiql.css
 graphiql.js
@@ -11003,6 +11002,7 @@ playground
 playground.xcworkspace
 plesk-stat
 plesk-stat/
+pload.php
 pls
 pls/dad/null
 plugin-install.php
@@ -11457,6 +11457,7 @@ resin.zip
 resolution
 resolve
 resource.gz
+resourceOperations
 resources
 resources.xml
 resources/
@@ -13708,6 +13709,7 @@ webpack.mix.js
 webroot.zip
 webserver.tar.gz
 webservice
+webservice-xml/upload/upload.php
 webshare
 webshell.asp
 webshell.aspx
