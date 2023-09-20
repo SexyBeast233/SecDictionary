@@ -1,0 +1,32 @@
+//老百度
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+
+//图片老版UA
+Baiduspider-image+(+http://www.baidu.com/search/spider.htm)
+
+//新百度PC
+Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)
+
+//新版WAP
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)
+
+//360搜索
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0);
+
+//360网站安全检测
+360spider (http://webscan.360.cn)
+
+//Google
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+
+//Adwords移动网络
+Googlebot-Image/1.0
+
+//Adwords移动网络
+AdsBot-Google-Mobile (+http://www.google.com/mobile/adsbot.html) Mozilla (iPhone; U; CPU iPhone OS 3 0 like Mac OS X) AppleWebKit (KHTML, like Gecko) Mobile Safari
+
+//微软 bing，必应
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+
+//搜狗搜索
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
