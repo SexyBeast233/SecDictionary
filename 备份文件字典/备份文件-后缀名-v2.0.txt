@@ -80,6 +80,9 @@ s
 .testing
 .tar.bz2
 .staging
+.json
+.cfg
+.properties
 .tar.tgz
 .sass-cache
 .bakoms.zip
