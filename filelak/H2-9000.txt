@@ -11,6 +11,14 @@ api/v1/terminal/sessions/?limit=1
 !.htpasswd
 ?g=obj_app_upfile
 #/serviceSync
+applicationContext.xml
+actpt.data
+applicationContext-mina.xml
+spring-aop.xml
+spring-security.xml
+spring-task.xml
+spring-web-mvc.xml
+webservice.xml
 #/wallboard
 %20../
 %20/swagger-ui.html
@@ -6083,6 +6091,7 @@ biy/upload/
 biz_admin
 biz_admin_bak
 bizadmin
+black
 black/template.xml
 blacklist.dat
 blank
