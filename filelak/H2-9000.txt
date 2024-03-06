@@ -3008,6 +3008,7 @@ NetAdmin
 New%20Folder
 New%20folder%20(2)
 News
+NewsDetailPage.aspx?key=news&id=7
 Newtonsoft.Json.dll
 NickLee.Extensions.RadAjax.dll
 NickLee.Extensions.RadCalendar.dll
