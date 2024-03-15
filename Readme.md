@@ -133,3 +133,8 @@ POST请求
 >>
 >>**PPS**:
 >>>ffuf和spray这种工具需要多用尝试, 因为有坑 ,各种语言甚至同种语言处理响应拿到的响应值都不一样
+
+
+## Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SexyBeast233/SecDictionary&type=Date)](https://star-history.com/#SexyBeast233/SecDictionary&Date)
