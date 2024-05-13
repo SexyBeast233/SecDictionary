@@ -84,6 +84,7 @@ s
 .cfg
 .properties
 .tar.tgz
+.tar.gz
 .sass-cache
 .bakoms.zip
 .production
