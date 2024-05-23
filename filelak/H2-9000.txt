@@ -11,8 +11,6 @@ $
 %20/swagger-ui.html
 %22
 %27
-.kube/
-.kube
 %2A
 %2C
 %2e%2e//google.com
@@ -850,6 +848,8 @@ $
 .komodotools
 .komodotools/
 .ksh_history
+.kube
+.kube/
 .kube/config
 .kwallet
 .landscape.yaml
@@ -11279,6 +11279,7 @@ passWords.txt
 passes.txt
 passlist
 passlist.txt
+passport
 passwd
 passwd.adjunct
 passwd.bak
