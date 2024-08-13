@@ -2512,6 +2512,7 @@ AspNetPager.dll
 Aspose.Cells.dll
 Auth/
 AutoTest.Net/
+AutoUpdateFiles
 BBApp
 Backup/
 Bank/
@@ -2612,6 +2613,7 @@ Citrix/PNAgent/config.xml
 Classpath/
 ClientAccessPolicy.xml
 ClientBin/
+CloudServer
 ClusterRollout
 Common.yml
 CommonEnum
@@ -2968,6 +2970,7 @@ META.yml
 MMWIP
 MRTG/
 Mail/smtp/Admin/smadv.asp
+Main.aspx
 Makefile
 Makefile.in
 Makefile.old
@@ -2993,6 +2996,7 @@ Microsoft.Vbe.Interop.dll
 Microsoft.Web.UI.WebControls.dll
 Micros~1/
 Mkfile.old
+ModifyUI.aspx
 Module.symvers
 Modules/CMS/Telerik.Web.UI.DialogHandler.aspx?dp=1
 MyAdmin/
@@ -3040,6 +3044,7 @@ OrderProcessorEJB/services/FrontGate/wsdl/
 Orion/Login.aspx
 Overview.js
 PDC/ajaxreq.php?PARAM=127.0.0.1+
+PER
 PHP
 PKG-INFO
 PMA/
@@ -3080,6 +3085,7 @@ PlantsByWebSphere
 PlantsByWebSphere/docs
 Plugins/ueditor/ueditor.config.js
 Polls_admin
+PrecompiledApp.config
 Privacy.html
 Procfile
 Procfile.dev
@@ -3367,6 +3373,7 @@ Vagrantfile.backup
 Version
 Version.htm
 Version/
+VersionUpdateRec.aspx
 VirtualEms/Login.aspx
 WEB-INF
 WEB-INF./
@@ -7059,6 +7066,7 @@ crack
 craft/
 crash.log
 create
+createDbXml.exe
 creation
 credentials
 credentials.csv
@@ -7360,6 +7368,7 @@ db/websql/
 db1.mdb
 db1.sqlite
 db2
+dbDataSourceConfig.xml
 db__.init.php
 db_admin
 db_backup.sql
@@ -11218,6 +11227,7 @@ package.tgz
 package.zip
 package/
 packer_cache/
+pacs
 padmin
 page
 page_navigator.xml
@@ -13837,6 +13847,7 @@ update.aspx
 update.jar
 update.php
 update.sh
+updateManage.aspx
 updateme/sinfor/ad/sys/sys_user.conf
 updates
 upfile

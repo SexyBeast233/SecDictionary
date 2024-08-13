@@ -18,6 +18,8 @@
 !admin!/database.rar
 !admin!/database.zip
 !admin!/temp.rar
+passport
+login.html
 Apply.hbm.xml
 Archives.hbm.xml
 ArchQuery.hbm.xml
