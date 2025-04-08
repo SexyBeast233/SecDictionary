@@ -137,4 +137,6 @@ POST请求
 
 ## Star 趋势
 
+## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=SexyBeast233/SecDictionary&type=Date)](https://star-history.com/#SexyBeast233/SecDictionary&Date)
