@@ -819,7 +819,7 @@ oauth/confirm_access/actuator/system/
 oauth/error/actuator/system/env
 oauth/get/token/api.html
 oauth/refresh/token/api/doc
-oauth/remove/token/api/index.html
+oauth//token/api/index.html
 oauth/token/actuator/system/mappings
 oauth/token/list/api/swagger
 oauth/user/token/api/swagger-resources
