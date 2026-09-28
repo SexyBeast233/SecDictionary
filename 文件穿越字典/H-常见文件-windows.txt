@@ -1,0 +1,5 @@
+boot.ini
+AppServ/MySQL/data/mysql/user.MYD
+WINDOWS/system32/drivers/etc/hosts
+WINDOWS/repair/SAM
+IfYouSeeThisYouSetWrongTheOption-c
